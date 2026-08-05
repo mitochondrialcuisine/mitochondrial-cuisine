@@ -1,0 +1,30 @@
+cff-version: 1.2.0
+title: "Mitochondrial Cuisine: A Founding Treatise"
+message: "If you reference this work, please cite it as below."
+type: book
+authors:
+  - family-names: Wu
+    given-names: Luke
+    affiliation: "Crucian Farms / Mitochondrial Cuisine Foundation"
+    email: luke@mitochondrialcuisine.com
+  - family-names: Wu
+    given-names: Reanne
+    affiliation: "Crucian Farms / Mitochondrial Cuisine Foundation"
+    email: reanne@mitochondrialcuisine.com
+version: "1.0.0"
+date-released: 2026-07-31
+license: LicenseRef-All-Rights-Reserved
+url: "https://mitochondrialcuisine.com"
+repository-code: "https://github.com/mitochondrialcuisine/mitochondrial-cuisine"
+keywords:
+  - mitochondrial cuisine
+  - culinary theory
+  - metabolic signaling
+  - mitochondria
+  - nutrition
+  - food design
+abstract: >-
+  The founding treatise of Mitochondrial Cuisine, a culinary discipline that
+  organizes the design of food around the mitochondrion as a signaling organelle
+  rather than a source of fuel. It is a culinary theory and makes no medical,
+  therapeutic, or disease-related claim.

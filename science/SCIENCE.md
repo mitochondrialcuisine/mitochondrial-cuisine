@@ -1,0 +1,47 @@
+# Verified Science Library
+
+Every source resolved against publisher records and PubMed/PMC. Entries marked
+_contested_ concern the mitochondrial-metabolic theory of cancer and are cited to
+represent scientific debate, not as a basis for any claim.
+
+- Andreux, P. A., Blanco-Bose, W., Ryu, D., Burdet, F., Ibberson, M., Aebischer, P., Auwerx, J., Singh, A., & Rinsch, C. (2019). *The mitophagy activator urolithin A is safe and induces a molecular signature of improved mitochondrial and cellular health in humans.* Nature Metabolism 1:595–603. https://doi.org/10.1038/s42255-019-0073-4
+- Attia, P., & Gifford, B. (2023). *Outlive: The Science and Art of Longevity.* Harmony / Penguin Random House (trade book).
+- Brandhorst, S., Levine, M. E., Wei, M., Shelehchi, M., Morgan, T. E., Nayak, K. S., Dorff, T., Hong, K., Crimmins, E. M., Cohen, P., & Longo, V. D. (2024). *Fasting-mimicking diet causes hepatic and blood markers changes indicating reduced biological age and disease risk.* Nature Communications 15(1):1309. https://doi.org/10.1038/s41467-024-45260-9
+- Chodari, L., Dilsiz Aytemir, M., Vahedi, P., et al. (2021). *Targeting mitochondrial biogenesis with polyphenol compounds.* Oxidative Medicine and Cellular Longevity 2021:4946711.
+- Divyajanani, S., Harithpriya, K., Ganesan, K., & Ramkumar, K. M. (2023). *Dietary polyphenols remodel DNA methylation patterns of NRF2 in chronic disease.* Nutrients 15(15):3347. https://doi.org/10.3390/nu15153347
+- Eisenberg, T., Abdellatif, M., Schroeder, S., et al. (Madeo, F., senior author) (2016). *Cardioprotection and lifespan extension by the natural polyamine spermidine.* Nature Medicine 22:1428–1438. https://doi.org/10.1038/nm.4222
+- Fang, J., Hu, Z., Luo, T., Chen, S., Li, J., Yang, H., Sheng, X., Zhang, X., Zhang, Z., & Xie, C. (2025). *β-hydroxybutyrate serves as a regulator in ketone body metabolism through lysine β-hydroxybutyrylation.* Journal of Biological Chemistry 301:108475. https://doi.org/10.1016/j.jbc.2025.108475
+- Fontana, L., Partridge, L., & Longo, V. D. (2010). *Extending healthy life span — from yeast to humans.* Science 328(5976):321–326. https://doi.org/10.1126/science.1172539
+- Lettieri-Barbato, D., et al. (2019). *Crosstalk between mitochondrial metabolism and oxidoreductive homeostasis: bioactive dietary compounds.* Nutrition Research Reviews.
+- Levine, M. E., Suarez, J. A., Brandhorst, S., Balasubramanian, P., Cheng, C.-W., Madia, F., Fontana, L., Mirisola, M. G., Guevara-Aguirre, J., Wan, J., Passarino, G., Kennedy, B. K., Wei, M., Cohen, P., Crimmins, E. M., & Longo, V. D. (2014). *Low protein intake is associated with a major reduction in IGF-1, cancer, and overall mortality in the 65 and younger but not older population.* Cell Metabolism 19(3):407–417. https://doi.org/10.1016/j.cmet.2014.02.006
+- López-Otín, C., Blasco, M. A., Partridge, L., Serrano, M., & Kroemer, G. (2023). *Hallmarks of aging: an expanding universe.* Cell 186(2):243–278. https://doi.org/10.1016/j.cell.2022.11.001
+- Monzel, A. S., Enríquez, J. A., & Picard, M. (2023). *Multifaceted mitochondria: moving mitochondrial science beyond function and dysfunction.* Nature Metabolism 5(4):546–562. https://doi.org/10.1038/s42255-023-00783-1
+- Mosharov, E. V., Rosenberg, A. M., Monzel, A. S., et al. (Picard, M., senior author) (2025). *A human brain map of mitochondrial respiratory capacity and diversity.* Nature 641:749–758. https://doi.org/10.1038/s41586-025-08740-6
+- Newman, J. C., & Verdin, E. (2017). *β-Hydroxybutyrate: a signaling metabolite.* Annual Review of Nutrition 37:51–76. https://doi.org/10.1146/annurev-nutr-071816-064916
+- Pagliarini, D. J., Calvo, S. E., Chang, B., et al. (Mootha, V. K., senior author) (2008). *A mitochondrial protein compendium elucidates complex I disease biology.* Cell 134(1):112–123. https://doi.org/10.1016/j.cell.2008.06.016
+- Perrone, P., & D'Angelo, S. (2025). *Hormesis and health: molecular mechanisms and the key role of polyphenols.* Food Chemistry Advances 7:101030. https://doi.org/10.1016/j.focha.2025.101030
+- Picard, M., & McEwen, B. S. (2018). *Psychological stress and mitochondria: a conceptual framework.* Psychosomatic Medicine 80(2):126–140.
+- Picard, M., & Shirihai, O. S. (2022). *Mitochondrial signal transduction.* Cell Metabolism 34(11):1620–1653. https://doi.org/10.1016/j.cmet.2022.10.008
+- Polak, R., Frates, B., Mirsky, J., Trilk, J., Wood, N., Moore, M., Thomas, O., & Phillips, E. M. (2025). *Defining Culinary Medicine: a call for consensus on competencies to improve nutrition.* Nutrients 17(9):1403. https://doi.org/10.3390/nu17091403
+- Puigserver, P., Wu, Z., Park, C. W., Graves, R., Wright, M., & Spiegelman, B. M. (1998). *A cold-inducible coactivator of nuclear receptors linked to adaptive thermogenesis.* Cell 92(6):829–839. https://doi.org/10.1016/s0092-8674(00)81410-5
+- Ryu, D., Mouchiroud, L., Andreux, P. A., et al. (Auwerx, J., senior author) (2016). *Urolithin A induces mitophagy and prolongs lifespan in C. elegans and increases muscle function in rodents.* Nature Medicine 22:879–888. https://doi.org/10.1038/nm.4132
+- San-Millán, I., & Brooks, G. A. (2018). *Assessment of metabolic flexibility by means of measuring blood lactate, fat, and carbohydrate oxidation responses to exercise in professional endurance athletes and less-fit individuals.* Sports Medicine 48(2):467–479. https://doi.org/10.1007/s40279-017-0751-x
+- Sena, L. A., & Chandel, N. S. (2012). *Physiological roles of mitochondrial reactive oxygen species.* Molecular Cell 48(2):158–167. https://doi.org/10.1016/j.molcel.2012.09.025
+- Seyfried, T. N. (2015). *Cancer as a mitochondrial metabolic disease.* Frontiers in Cell and Developmental Biology 3:43. https://doi.org/10.3389/fcell.2015.00043 **[contested]**
+- Seyfried, T. N., & Shelton, L. M. (2010). *Cancer as a metabolic disease.* Nutrition & Metabolism 7:7. https://doi.org/10.1186/1743-7075-7-7 **[contested]**
+- Seyfried, T. N., Lee, D. C., Duraj, T., Ta, N. L., Mukherjee, P., Kiebish, M., Arismendi-Morillo, G., & Chinopoulos, C. (2025). *The Warburg hypothesis and the emergence of the mitochondrial metabolic theory of cancer.* Journal of Bioenergetics and Biomembranes. https://doi.org/10.1007/s10863-025-10059-w **[contested]**
+- Shaulson, E. D., Cohen, A. A., & Picard, M. (2024). *The brain-body energy conservation model of aging.* Nature Aging 4(10):1354–1371.
+- Shimazu, T., Hirschey, M. D., Newman, J., He, W., Shirakawa, K., Le Moan, N., Grueter, C. A., Lim, H., Saunders, L. R., Stevens, R. D., Newgard, C. B., Farese, R. V. Jr., de Cabo, R., Ulrich, S., Akassoglou, K., & Verdin, E. (2013). *Suppression of oxidative stress by β-hydroxybutyrate, an endogenous histone deacetylase inhibitor.* Science 339(6116):211–214. https://doi.org/10.1126/science.1227166
+- Sutton, E. F., Beyl, R., Early, K. S., Cefalu, W. T., Ravussin, E., & Peterson, C. M. (Panda-aligned TRE literature) (2018). *Early time-restricted feeding improves insulin sensitivity, blood pressure, and oxidative stress even without weight loss in men with prediabetes.* Cell Metabolism 27(6):1212–1221. https://doi.org/10.1016/j.cmet.2018.04.010
+- van den Burg, E. L., Schoonakker, M. P., van Peet, P. G., van den Akker-van Marle, E. M., Lamb, H. J., Longo, V. D., et al. (2024). *Integration of a fasting-mimicking diet programme in primary care for type 2 diabetes: a 12-month randomised controlled trial.* Diabetologia 67(7):1245–1259.
+- Vander Heiden, M. G., Cantley, L. C., & Thompson, C. B. (2009). *Understanding the Warburg effect: the metabolic requirements of cell proliferation.* Science 324(5930):1029–1033. https://doi.org/10.1126/science.1160809
+- Vannuchi, N., et al. (2025). *PGC-1α activation by polyphenols: a pathway to thermogenesis.* Molecular Nutrition & Food Research.
+- Vasques, A. C. J., Capitani, C. D., Eisenberg, D. M., Velloso, L. A., & Geloneze, B. (2024). *Cooking for Health: a comprehensive narrative review of Culinary Medicine as an educational tool in medical training in Brazil and globally.* Archives of Endocrinology and Metabolism 68:e230491. https://doi.org/10.20945/2359-4292-2023-0491
+- Wallace, D. C. (2005). *A mitochondrial paradigm of metabolic and degenerative diseases, aging, and cancer: a dawn for evolutionary medicine.* Annual Review of Genetics 39:359–407. https://doi.org/10.1146/annurev.genet.39.110304.095751
+- Wang, L., Chen, P., & Xiao, W. (2021). *β-hydroxybutyrate as an anti-aging metabolite.* Nutrients 13(10):3420. https://doi.org/10.3390/nu13103420
+- Zhang, B., Chang, J. Y., Lee, M. H., Ju, S. H., Yi, H. S., & Shong, M. (2024). *Mitochondrial stress and mitokines: therapeutic perspectives for the treatment of metabolic diseases.* Diabetes & Metabolism Journal 48(1):1–18. https://doi.org/10.4093/dmj.2023.0115
+- Zhao, H., Jin, H., Xian, J., Zhang, Z., Shi, J., & Bai, X. (2022). *Effect of ketogenic diets on body composition and metabolic parameters of cancer patients: a systematic review and meta-analysis.* Nutrients 14(19):4192. https://doi.org/10.3390/nu14194192
+
+---
+
+_No dish, ingredient, technique, fuel state, or dietary pattern described in this work treats, cures, or prevents any disease. The peer-reviewed science is cited to the researchers who produced it; the culinary theory, the design principles, and the honest line are the founder's._
